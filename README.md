@@ -1,2 +1,2 @@
-# DLEN_MindSpore
-MindSpore of D
+# DVLFN_MindSpore
+DVLFN of MindSpore vision
